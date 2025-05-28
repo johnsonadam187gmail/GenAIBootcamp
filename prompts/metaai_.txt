@@ -7,5 +7,7 @@ Instructions:
 - Provide us a table of the vocabulary
 - Do not provide particles in the vocabulary, student needs to figure out correct particles
 - Provide words in their dictionary form, student needs to figure out conjugations and tenses
+- Do not include any particles or conjugations or verb conjugations, in the vocabulary table
+- Include translation for all verbs, adverbs, adjectives, nouns and pronouns 
 
 Student Input: Translate to Valarian please. Bears are at the door, did you put the garbage out? 
